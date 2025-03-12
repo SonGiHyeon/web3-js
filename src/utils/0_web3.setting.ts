@@ -6,4 +6,4 @@ import { Web3 } from 'web3';
     - ex) 'http:127.0.0.1:1004'
 */
 
-export const web3: Web3 = new Web3('FILL_ME_IN');
+export const web3: Web3 = new Web3("https://sepolia.infura.io/v3/7a2f1e9b214448069fe349701c066903");
